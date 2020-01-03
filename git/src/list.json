@@ -1,0 +1,12 @@
+{
+    "dirs": [ 
+        {
+            "incoming": "Incoming", 
+            "subdirs": ["Enroll"]
+        }, 
+        {
+            "inventory": "Inventory", 
+            "subdirs": ["Network", "Desktops", "Laptops"]
+        }
+    ]
+}
